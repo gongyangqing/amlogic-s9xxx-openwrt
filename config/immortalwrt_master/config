@@ -8526,7 +8526,9 @@ CONFIG_PACKAGE_whereis=y
 #
 # Xorg
 #
-
+CONFIG_PACKAGE_luci-app-adguardhome=y
+CONFIG_PACKAGE_luci-app-taskplan=y
+CONFIG_PACKAGE_luci-app-partexp=y
 #
 # Font-Utils
 #
