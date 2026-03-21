@@ -56,7 +56,7 @@ git clone https://github.com/sirpdboy/luci-app-partexp.git package/luci-app-part
 git clone https://github.com/sirpdboy/luci-app-taskplan package/luci-app-taskplan
 
 # Add luci-app-adguardhome
-git clone https://github.com/sirpdboy/luci-app-adguardhome.git package/luci-app-adguardhome
+# git clone https://github.com/sirpdboy/luci-app-adguardhome.git package/luci-app-adguardhome
 
 
 # Apply patches
